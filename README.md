@@ -84,15 +84,16 @@ qual interruptor controla cada lâmpada?
 
 <b>Resposta:</b>
 
-1º Ligaria o interruptor 1 e esperaria alguns minutos até que, se a lampada do interruptor que escolhi estiver acessa, esquente
+1º Ligaria o interruptor 1 e esperaria alguns minutos até que a lampada do interruptor que escolhi esquente
 
-2º Desligando o Interruptor 1, ligo o interruptor 2 e iria para a sala averiguar se a lampada está acessa.
+2º Desligando o Interruptor 1, ligo o interruptor 2 e iria para a sala das luzes averiguar qual lampada está acessa.
 
-2.1 - Caso a lampada esteja acessa, a resposta final é o interruptor 2.
+2.1 - Após descobrir qual a lampada o interruptor 2 controla, toco nas demais para saber qual o interruptor 1 controla com base no calor.
 
-2.2 - Caso a lampada esteja apagada, encosto a mão na luz para ver se ela está quente, caso esteja, o interruptor 1 é o certo.
+2.2 - Descobrindo qual que o interruptor 1 e do interruptor 2 controla, eu volto para a sala inicial, desligo o interruptor 2 e ligo o terceiro.
 
-2.3 - Caso a lampada não tenha acendido com o interruptor 2 e nem esteja quente, o interruptor 3 é o certo.
+2.3 - Voltando para a sala das lampadas descubro qual lampada o interruptor 3 controla.
+
 
 
 ## Q5. Convertendo de String
