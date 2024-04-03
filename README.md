@@ -2,7 +2,7 @@
 
 Para executar os códigos do desafio é necessário o uso de uma IDE e ter o java 17 instalado na máquina ou,
 utilizar um compilador online, porém, para poder usar no compilador online é necessário colocar 
-o código do arquivo TargetSistemaApplication + o das outras classes juntos, para compilar
+o código do arquivo TargetSistemaApplication.java + o das outras classes da pasta service, juntos, para compilar.
 
 ## Q1. Observe o trecho de código abaixo:
 
