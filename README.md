@@ -4,7 +4,7 @@ Para executar os códigos do desafio é necessário o uso de uma IDE e ter o jav
 utilizar um compilador online, porém, para poder usar no compilador online é necessário colocar 
 o código do arquivo TargetSistemaApplication + o das outras classes juntos, para compilar
 
-### Q1. Observe o trecho de código abaixo:
+## Q1. Observe o trecho de código abaixo:
 
     int INDICE = 13, SOMA = 0, K = 0;
     enquanto K < INDICE faça
@@ -17,9 +17,9 @@ o código do arquivo TargetSistemaApplication + o das outras classes juntos, par
 
  Ao final do processamento, qual será o valor da variável SOMA?
 
-<b>Resposta:</b> 49   Código de Resolução do problema: link
+<b>Resposta:</b> 49
 
-### Q2. Fibonacci:
+## Q2. Fibonacci:
 
 Dado a sequência de Fibonacci onde se inicia por 0 e 1 e o
 próximo valor sempre será a soma dos 2 valores anteriores
@@ -31,10 +31,10 @@ o número informado pertence ou não a sequência.
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou
  pode ser previamente definido no código;
 
-<b>Resposta:</b> Link do código
+<b>Resposta:</b> <p><a href="https://github.com/Makeavel/TargetSistemas/blob/master/src/main/java/com/api/targetsistema/service/Fibonacci.java">Link do Código</a></p>  
 
      
-### Q3. Descubra a lógica e complete o próximo elemento:
+## Q3. Descubra a lógica e complete o próximo elemento:
 
 a) 1, 3, 5, 7, ___
 
@@ -73,7 +73,7 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 <b>Lógica:</b> todos os números listados começam com a letra "D"
 
 
-### Q4. Sala com três interruptores:
+## Q4. Sala com três interruptores:
 
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. 
 Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. 
@@ -95,7 +95,7 @@ qual interruptor controla cada lâmpada?
 2.3 - Caso a lampada não tenha acendido com o interruptor 2 e nem esteja quente, o interruptor 3 é o certo.
 
 
-### Q5. Convertendo de String
+## Q5. Convertendo de String
 
 Escreva um programa que inverta os caracteres de um string.
 
@@ -106,5 +106,5 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-<b>Resposta:</b> Link do código
+<b>Resposta:</b> <p><a href="https://github.com/Makeavel/TargetSistemas/blob/master/src/main/java/com/api/targetsistema/service/InverteString.java">Link do Código</a></p>  
 
