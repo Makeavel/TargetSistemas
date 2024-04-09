@@ -1,5 +1,7 @@
 # Desafio Estágio Target Sistemas
 
+Projeto feito em Java 17 e Spring Boot 3.0
+
 Para executar os códigos do desafio é necessário o uso de uma IDE e ter o java 17 instalado na máquina ou,
 utilizar um compilador online, porém, para poder usar no compilador online é necessário colocar 
 o código do arquivo TargetSistemaApplication.java + o das outras classes da pasta service, juntos, para compilar.
